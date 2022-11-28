@@ -1,0 +1,19 @@
+* {
+    font-family: Tahoma;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.imgheader{
+    width: 8%;
+    height: auto;
+    border-radius: 50%;
+    margin: 0 5%;
+}
+
+.formheader{
+
+    padding: 2% 25%;
+}
